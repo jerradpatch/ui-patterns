@@ -3,7 +3,7 @@ a git for new UI Patterns for a project that we are developing in angular1.5.x a
 
 
 # Testing :dizzy_face:
-~~ - e2e installation + examples: follow the instructions found here http://www.protractortest.org/#/ ~~
+~~e2e installation + examples: follow the instructions found here http://www.protractortest.org/#/~~
 
 # Javascript
 1. New Controller Setup :muscle:
