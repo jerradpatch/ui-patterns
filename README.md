@@ -17,4 +17,8 @@ changing your file from javascript to typescript
   - 4. all future changes should be made only to the .ts file
   - 5. both typescript and generated typescript file should be commited. Note, .js must be regenrated when the .ts file is changed.
 
-
+3. Promises :pray:
+  - 1. stop using the Q promise library. Typescript polyfills ES6 promises, so use typescript and use ES6 promise syntax 
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+  
+  
