@@ -11,10 +11,10 @@ using es6 classes as controllers and in every new file, follow the instructions 
 
 2. Typescript :sweet_potato:
 changing your file from javascript to typescript
-  1. change the file type from .js to .ts
-  2. run the gulp file from the cedsci folder "gulp --tomcat h:\cedsci\apachi-tomcat.x.x.x"
-  3. fix typescript errors listed in terminal output
-  4. all future changes should be made only to the .ts file
-  5. both typescript and generated typescript file should be commited. Note, .js must be regenrated when the .ts file is changed.
+  - 1. change the file type from .js to .ts
+  - 2. run the gulp file from the cedsci folder "gulp --tomcat h:\cedsci\apachi-tomcat.x.x.x"
+  - 3. fix typescript errors listed in terminal output
+  - 4. all future changes should be made only to the .ts file
+  - 5. both typescript and generated typescript file should be commited. Note, .js must be regenrated when the .ts file is changed.
 
 
