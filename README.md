@@ -4,7 +4,7 @@ a git for new UI Patterns for a project that we are developing in angular1.5.x a
 
 # Testing :dizzy_face:
 - unit testing: we are using mocha for unit testing, look in the ./testing folder for an example.
--- run tests by "npm run test" from the project folder.
+-- run tests by "npm run test" from the project folder. Make sure to follow naming conventions and the meaning behind folder hierarchy! 
 offical documentation: https://mochajs.org/#table-of-contents
 
 ~~e2e installation + examples: follow the instructions found here http://www.protractortest.org/#/~~
