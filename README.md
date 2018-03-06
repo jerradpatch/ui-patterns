@@ -35,3 +35,4 @@ changing your file from javascript to typescript
 4) page transition appearances, transition smoothly between pages
 5) page load time till, the load time is very significant this should be reduced to improve user experiance
 6) make the api run independently of the backend, so we can then use external services, such as browser stack, to run our tests.
+7) minify and uglyify code.
