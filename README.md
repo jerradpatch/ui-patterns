@@ -27,3 +27,11 @@ changing your file from javascript to typescript
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
   
   
+
+# Things to do on the project
+1) Complete all api test responses, to help eliminate backend issues that appear as front end issues.
+2) Integrate angular2 upgrade 
+3) page load appearances, to show UI only when the data to display it is availible resulting in a UI that doesnt appear broken
+4) page transition appearances, transition smoothly between pages
+5) page load time till, the load time is very significant this should be reduced to improve user experiance
+6) make the api run independently of the backend, so we can then use external services, such as browser stack, to run our tests.
