@@ -26,7 +26,7 @@ changing your file from javascript to typescript
   - 1. stop using the Q promise library. Typescript polyfills ES6 promises, so use typescript and use ES6 promise syntax 
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
   
-4. CSS Components
+# CSS Components
  - 1 use BEM naming strategy for all components
  http://getbem.com/
  - 2 use SASS to extend material framework to make our own components.
