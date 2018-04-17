@@ -26,6 +26,10 @@ changing your file from javascript to typescript
   - 1. stop using the Q promise library. Typescript polyfills ES6 promises, so use typescript and use ES6 promise syntax 
   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
   
+4. Deep object fetching
+ - becuase we dont know if an object contains the structure desired when fetching a value from a deeply nested object. We introduced 
+ https://github.com/jerradpatch/underscore.get . This will allow us to elegantly fetch deeply from an object and drovide a default value if the object value is unobtainable.
+ 
 # CSS Components
  - 1 use BEM naming strategy for all components
  http://getbem.com/
